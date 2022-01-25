@@ -1,2 +1,2 @@
 # ASUS-GL553-BIG-SUR-EFI
-MOST RECENT AND FUNCTIONAL EFI FOR ASUS GL553 SERIES - WILL BE UPDATED ON EVERY OPENCORE VERSION
+Most Recent and Functional EFI Folder for ASUS GL553 Series Laptops - Will Be Updated On Every New Opencore Release
