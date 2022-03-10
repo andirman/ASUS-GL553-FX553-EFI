@@ -1,6 +1,6 @@
 # ASUS GL553/FX553 Big Sur EFI
 * Most Recent and Functional EFI Folder for ASUS GL553/FX553 Series Laptops - Will be Updated On Every New Opencore Release
-* EFI can be downloaded on ''Releases''
+* EFI can be downloaded on ''Releases'' !
 
 # Feature Status:
 * Sleep : Not Working
