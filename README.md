@@ -1,6 +1,6 @@
-# ASUS GL553/FX553 Big Sur EFI
-* Most Recent and Functional EFI Folder for ASUS GL553/FX553 Series Laptops - Will be Updated On Every New Opencore Release
-* EFI can be downloaded on ''Releases'' !
+# ASUS GL553/FX553 Big Sur / Monterey EFI
+* Most Recent and Functional EFI Folder for ASUS GL553/FX553 Series Laptops on Big Sur and Monterey - Will be Updated On Every New Opencore Release
+* EFI'(s) can be downloaded on ''Releases'' !
 
 # Feature Status:
 * Sleep : Not Working
@@ -24,3 +24,5 @@ Device	Name - Working in macOS
 * USB: USB 3.0 Bus - YES
 * HDMI: INTEL HDMI HD 630 - YES
 * Touchpad: ELAN 1200 - YES
+
+#Features are the same on Big Sur and Monterey
