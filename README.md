@@ -25,4 +25,4 @@ Device	Name - Working in macOS
 * HDMI: INTEL HDMI HD 630 - YES
 * Touchpad: ELAN 1200 - YES
 
-#Features are the same on Big Sur and Monterey
+*Features are the same on Big Sur and Monterey
